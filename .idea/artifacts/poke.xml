@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="poke">
+    <output-path>$PROJECT_DIR$/out/artifacts/poke</output-path>
+    <root id="archive" name="poke.war">
+      <element id="directory" name="WEB-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/webapp/WEB-INF/web.xml" />
+        <element id="directory" name="classes">
+          <element id="module-output" name="poke" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="org.apache.wicket:wicket-extensions:8.0.0" />
+          <element id="library" level="project" name="mysql:mysql-connector-java:5.1.47" />
+          <element id="library" level="project" name="com.zaxxer:HikariCP:3.2.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

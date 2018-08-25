@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="org.apache.wicket:wicket-extensions:8.0.0" type="repository">
+    <properties maven-id="org.apache.wicket:wicket-extensions:8.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-extensions/8.0.0/wicket-extensions-8.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/8.0.0/wicket-core-8.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-request/8.0.0/wicket-request-8.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-util/8.0.0/wicket-util-8.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.3.3/commons-fileupload-1.3.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/danekja/jdk-serializable-functional/1.8.3/jdk-serializable-functional-1.8.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/openjson/openjson/1.0.8/openjson-1.0.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/wicket-core-8.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
